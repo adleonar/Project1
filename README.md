@@ -5,3 +5,6 @@ Author Adam Leon
 Kolejna zmiana
 
 kolejna zmiana
+
+
+zmiana na sidebranch
